@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syofi Azmi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://syofiazmi.github.io/my-portfolio/](https://syofiazmi.github.io/my-portfolio/)
-
-- 💬 Ask me about **html, css, javascript**
+- 👨‍💻 Learner, Programmer | Web Development 
 
 - 📫 How to reach me **muhammadsyofiazmi@gmail.com**
 
