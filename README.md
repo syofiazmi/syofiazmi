@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syofi Azmi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 Learner, Programmer | Web Development 
-
-- 📫 How to reach me **muhammadsyofiazmi@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 👨‍💻 Information Technology Enthusiast | Web Development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
