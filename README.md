@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syofi Azmi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate coder from Indonesia</h3>
 
 - 👨‍💻 Information Technology Enthusiast | Web Development 
 
