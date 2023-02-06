@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on freelance<br>I'm looking to collaboration on web and mobile development<br>
+I'm currently working on freelance.<br>I'm looking to collaboration on web and mobile development.<br>
 
 
 ## 🌐 Socials:
