@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm only Enthusiast about to build program, yeah generally I love about Technology.<br>But sure, we have to decide what a piece of technology that we want to be professional in, and I choose PROGRAMMING.<br>
+I'm only Enthusiast about to build program, yeah generally I love about Technology.<br>But sure, we have to decide what a piece of technology that we want to be professional in, then I choose PROGRAMMING.<br>
 
 
 ## 🌐 Socials:
