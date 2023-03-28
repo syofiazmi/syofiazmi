@@ -1,11 +1,11 @@
 # 💫 About Me:
-A Bachelor of Computer (S.Kom) in Informatics Engineering, has experience as a leader in student organization such as leader of Language Month Event in Islamic State Highschool (MAN 2 Banjarmasin) in Banjarmasin city. Leader of Muhammadiyah Student Association (IMM) in Polytechnic State of Banjarmasin.
+A Bachelor of Computer (S.Kom) in Informatics Engineering, has experience as a leader of the Language Month Event at Islamic State Highschool (MAN 2 Banjarmasin) in Banjarmasin city. Leader of Muhammadiyah Student Association (IMM) in the Polytechnic State of Banjarmasin.
 
-Interest in Software development when doing final task for Diploma III graduation in State Polytechnic Banjarmasin, built information system web for IMM South Kalimantan region using HTML, CSS, PHP native. When final task for Bachelor of Computer in Muhammadiyah University of Malang, built information system of Muhammadiyah of Malang city for android using Dart and Flutter framweork. After graduation start seriously in Software development with joining on Dibimbing bootcamp in 2022 in Full-stack Web Development Javascript. After finishing it, on middle of 2022 tried to join Intensive Bootcamp / Probation at Refactory in Yogyakarta city as Android Software Engineer using Flutter. 
+Interest in Software development when doing the final task for Diploma III graduation in State Polytechnic Banjarmasin, built information system web for IMM South Kalimantan region using HTML, CSS, and PHP native. When the final task for Bachelor of Computer at the Muhammadiyah University of Malang, built an information system of Muhammadiyah of Malang city for android using Dart and Flutter framework. After graduation started seriously in Software development by joining on Dibimbing boot camp in 2022 in Full-stack Web Development Javascript, after finishing it, in the middle of 2022 tried to join Intensive Bootcamp / Probation at Refactory in Yogyakarta city as Android Software Engineer using Flutter for four months. 
 
-Currently active looking for work as Full-stack Web Development or in a related field.
+Currently, actively looking for work as Full-stack Web Developer or in a related field.
 
-My Specialitiest: 
+My Specialties: 
 1. Back-end Development Javascript
 2. Front-end Development Javascript
  
@@ -20,7 +20,7 @@ Technology used:
 8. Amazon Web Service (AWS): EC2 Instance
 9. Version Control System (VCS): Git, Github, Gitlab
 10. Javascript Framework: ReactJS
-11. Dart + Flutter.<br>
+11. Dart + Flutter<br>
 
 
 ## 🌐 Socials:
