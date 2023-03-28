@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm only Enthusiast about to build program, yeah generally I love about Technology.<br>But sure, we have to decide what a piece of technology that we want to be professional in, then I choose PROGRAMMING.<br>
+A Bachelor of Computer (S.Kom) in Informatics Engineering, has experience as a leader in student organization such as leader of Language Month Event in Islamic State Highschool (MAN 2 Banjarmasin) in Banjarmasin city. Leader of Muhammadiyah Student Association (IMM) in Polytechnic State of Banjarmasin.
+
+Interest in Software development when doing final task for Diploma III graduation in State Polytechnic Banjarmasin, built information system web for IMM South Kalimantan region using HTML, CSS, PHP native. When final task for Bachelor of Computer in Muhammadiyah University of Malang, built information system of Muhammadiyah of Malang city for android using Dart and Flutter framweork. After graduation start seriously in Software development with joining on Dibimbing bootcamp in 2022 in Full-stack Web Development Javascript. After finishing it, on middle of 2022 tried to join Intensive Bootcamp / Probation at Refactory in Yogyakarta city as Android Software Engineer using Flutter. 
+
+Currently active looking for work as Full-stack Web Development or in a related field.
+
+My Specialitiest: 
+1. Back-end Development Javascript
+2. Front-end Development Javascript
+ 
+Technology used:
+1. HTML
+2. CSS
+3. Javascript
+4. CSS Framework: Bootstrap, Tailwind
+5. NodeJS + HapiJS + ExpressJS
+6. MySQL / MariaDB
+7. Firebase
+8. Amazon Web Service (AWS): EC2 Instance
+9. Version Control System (VCS): Git, Github, Gitlab
+10. Javascript Framework: ReactJS
+11. Dart + Flutter.<br>
 
 
 ## 🌐 Socials:
