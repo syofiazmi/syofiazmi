@@ -1,26 +1,5 @@
 # 💫 About Me:
-A Bachelor of Computer (S.Kom) in Informatics Engineering, has experience as a leader of the Language Month Event at Islamic State Highschool (MAN 2 Banjarmasin) in Banjarmasin city. Leader of Muhammadiyah Student Association (IMM) in the Polytechnic State of Banjarmasin.
-
-Interest in Software development when doing the final task for Diploma III graduation in State Polytechnic Banjarmasin, built information system web for IMM South Kalimantan region using HTML, CSS, and PHP native. When the final task for Bachelor of Computer at the Muhammadiyah University of Malang, built an information system of Muhammadiyah of Malang city for android using Dart and Flutter framework. After graduation started seriously in Software development by joining on Dibimbing boot camp in 2022 in Full-stack Web Development Javascript, after finishing it, in the middle of 2022 tried to join Intensive Bootcamp / Probation at Refactory in Yogyakarta city as Android Software Engineer using Flutter for four months. 
-
-Currently, actively looking for work as Full-stack Web Developer or in a related field.
-
-My Specialties: 
-1. Back-end Development Javascript
-2. Front-end Development Javascript
- 
-Technology used:
-1. HTML
-2. CSS
-3. Javascript
-4. CSS Framework: Bootstrap, Tailwind
-5. NodeJS + HapiJS + ExpressJS
-6. MySQL / MariaDB
-7. Firebase
-8. Amazon Web Service (AWS): EC2 Instance
-9. Version Control System (VCS): Git, Github, Gitlab
-10. Javascript Framework: ReactJS
-11. Dart + Flutter<br>
+I graduated with a Bachelor computer in 2021 and a Diploma 3 in 2018, both of them are Informatics majors. I am a long-life learner, a hard-work and responsible person, able to work in a team, and good at communication. Since 2018, I practice on some programming stacks. Currently, I decide to focus on Web programming.
 
 
 ## 🌐 Socials:
