@@ -1,5 +1,5 @@
 # 💫 About Me:
-I graduated with a Bachelor computer in 2021 and a Diploma 3 in 2018, both of them are Informatics majors. I am a long-life learner, a hard-work and responsible person, able to work in a team, and good at communication. Since 2018, I practice on some programming stacks. Currently, I decide to focus on Web programming.
+I graduated with a Bachelor computer in 2021 and a Diploma 3 in 2018, both of them are Informatics majors. I am a long-life learner, a hard-work and responsible person, able to work in a team, and good at communication. Since 2018, I practice on some programming stacks.
 
 
 ## 🌐 Socials:
